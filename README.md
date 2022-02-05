@@ -1,3 +1,3 @@
-### Hello there I'm Chris!
+## Hello there I'm Chris!
 
-# i just do random stuff here
+### i just do random stuff here
