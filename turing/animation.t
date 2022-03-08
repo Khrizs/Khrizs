@@ -72,5 +72,3 @@ delay (5000)
 cls
 
 end loop
-
-% Christopher Tan 2022
