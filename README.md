@@ -1,4 +1,5 @@
-# massive text
+# i code discord bots in python
+# and make some games
 ## things i do
 <br>
   <a href="https://skillicons.dev">
