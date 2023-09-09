@@ -1,4 +1,4 @@
-# i code discord bots in python
+# i develop discord bots in python
 # and make some games
 ## things i do
 <br>
