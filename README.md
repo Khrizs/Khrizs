@@ -1,6 +1,4 @@
-# i develop discord bots in python
-# and make some games
-## things i do
+
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
